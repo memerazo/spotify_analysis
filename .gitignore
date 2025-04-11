@@ -1,0 +1,39 @@
+# Entorno virtual
+venv/
+.env
+
+# Cachés de Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Directorio de datos
+data/
+
+# Credenciales (información sensible)
+credentials/
+
+# Archivos generados por Airflow
+airflow/airflow.db
+airflow/logs/
+airflow/webserver_config.py
+airflow/airflow.cfg
+
+# Archivos temporales y de sistema
+.DS_Store
+*.log
+*.tmp
+*.swp
+
+# Archivos de compilación y paquetes
+dist/
+build/
+*.egg-info/
+
+# Archivos de configuración del editor
+.vscode/
+.idea/
+*.sublime-project
+*.sublime-workspace
+/home/user/etl_project/..gitignore.swp
