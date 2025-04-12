@@ -201,7 +201,7 @@ Then create a Pull Request.
 
 ## 🙌 Acknowledgments
 
-[[github.com/juandavdaza](https://github.com/JuanDavidDazaR)]
+Thanks [[github.com/juandavdaza](https://github.com/JuanDavidDazaR)] to explain airflow
 
 
 ---
